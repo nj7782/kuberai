@@ -1,0 +1,7 @@
+{
+  "description": "A voice-first chat interface for financial queries.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "name": "Kuber.AI"
+}
