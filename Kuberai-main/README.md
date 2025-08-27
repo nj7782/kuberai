@@ -1,8 +1,6 @@
 # Kuber.AI - Financial Assistant Chatbot
 
-Kuber.AI is a modern, voice-first financial assistant proof-of-concept. It is designed to provide helpful financial guidance through a conversational interface and seamlessly integrates a workflow for investing in digital gold.
-
-This project demonstrates the use of modern web technologies, including React and the Google Gemini API, to build a dynamic and responsive single-page application (SPA).
+This project is my AI Engineer assignment submission. The task was to replicate a simplified workflow of Kubera AI inside an application: when a user asks about gold investments (via text or voice), the system should answer their query and nudge them to invest in gold. If the user accepts, the app displays a sample gold investment page along with live gold prices.
 
 ## Features
 
