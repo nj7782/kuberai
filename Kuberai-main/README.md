@@ -49,7 +49,7 @@ This project is set up to run directly in the browser without a complex build pr
 
 1.  **Clone the repository (or download the files):**
     ```bash
-    git clone https://github.com/your-username/kuber-ai.git
+    git clone [https://github.com/nj7782/kuberai/tree/main/Kuberai-main]
     cd kuber-ai
     ```
 
